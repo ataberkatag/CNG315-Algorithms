@@ -29,3 +29,10 @@ Example champion.txt:
   Cera2 0.5
   Crow 0.33
   Alphi 0.75
+  
+Options:
+  1. actual win rate
+  2. expected win rate
+  3. expectation skew
+
+At line 228,there is a "argv[1] = "1"; " if you wanna try other options change it.
