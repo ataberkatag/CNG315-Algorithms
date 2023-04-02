@@ -1,6 +1,3 @@
-//ATABERK TÜRK ATAG
-//2015915
-
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
