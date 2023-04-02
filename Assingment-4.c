@@ -55,7 +55,7 @@ Node *createScanpathList(char *filename){
 
 
 
-void searchPattern(Node *peopleWithAutism, Node *peopleWithoutAutism, char *pattern){
+void searchPattern(Node *peopleWithAutism, Node *peopleWithoutAutism, char *pattern){//Rabin-Karp Algorithm
     int d=10,q=11;
     Node *tempWithAutism = peopleWithAutism;
     Node *tempWithoutAutism = peopleWithoutAutism;
