@@ -8,7 +8,7 @@ Having the most wins does not mean the best win rate, and the expectation to win
 Since heap sort has been the highlight of the week, the focus will mostly be on implementing it to sort our leaderboard the way the user desires.
 
 Normally, we are using command line to execute .txt files and choosing the option but for simplicity i put the names and option inside the document.
-If you made the necessary changes you can easily work with the terminal.
+If you make the necessary changes you can easily work with the terminal.
 
 Example battle.txt:
   battle1 XQ3 Ashya XQ3
